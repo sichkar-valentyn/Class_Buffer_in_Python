@@ -1,3 +1,15 @@
+# File: Class_Buffer_in_Python.py
+# Description: Creating class Buffer in Python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Class Buffer in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Class_Buffer_in_Python (date of access: XX.XX.XXXX)
+
+
 # Implementing the task
 # Creating class Buffer
 # Adding to the buffer numbers
